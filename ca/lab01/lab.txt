@@ -1,0 +1,6 @@
+Python: 335.046054
+Java: 6.051878391000001
+C: 16.428679
+C (optimized): 4.405491
+C (wrongly optimized): 30.485106
+
